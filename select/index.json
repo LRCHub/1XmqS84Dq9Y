@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I saw",
+  "base_artist": "uiuni",
+  "createdAt": "2026-02-27T13:01:26.893530Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Saw God Today",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_I_Saw_God_Today_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Saw God Today (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_I_Saw_God_Today_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Wynonna",
+      "has_synced": true,
+      "path": "select/03_I_Saw_The_Light_Wynonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Wynonna Judd",
+      "has_synced": true,
+      "path": "select/04_I_Saw_The_Light_Wynonna_Judd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Saw the Light",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/05_I_Saw_the_Light_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/06_I_Saw_The_Light_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/07_I_Saw_The_Light_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dreamed I Saw Soldiers",
+      "artist": "Neil Halstead",
+      "has_synced": false,
+      "path": "select/08_Dreamed_I_Saw_Soldiers_Neil_Halstead.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What I Saw In You",
+      "artist": "The Proclaimers",
+      "has_synced": false,
+      "path": "select/09_What_I_Saw_In_You_The_Proclaimers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Saw Him Standing There",
+      "artist": "Tiffany feat. George Tobin & John Kerns",
+      "has_synced": false,
+      "path": "select/10_I_Saw_Him_Standing_There_Tiffany_feat._George_Tobin_&_John_Kerns.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Saw Him Standing There",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/11_I_Saw_Him_Standing_There_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Saw Him Standing There (2007 Version)",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/12_I_Saw_Him_Standing_There_(2007_Version)_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The First Time Ever I Saw Your Face",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/13_The_First_Time_Ever_I_Saw_Your_Face_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Saw It In The Mirror",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/14_I_Saw_It_In_The_Mirror_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Saw You",
+      "artist": "Arab Strap",
+      "has_synced": true,
+      "path": "select/15_I_Saw_You_Arab_Strap.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It Was There That I Saw You",
+      "artist": "...And You Will Know Us By the Trail of Dead",
+      "has_synced": false,
+      "path": "select/16_It_Was_There_That_I_Saw_You_...And_You_Will_Know_Us_By_the_Trail_of_Dead.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The First Time Ever I Saw Your Face",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/17_The_First_Time_Ever_I_Saw_Your_Face_UNKLE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I saw",
+      "artist": "uiuni",
+      "has_synced": false,
+      "path": "select/pl_01_I_saw_uiuni.txt"
+    }
+  ]
+}
